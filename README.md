@@ -2,7 +2,7 @@
 :smile: Currently working on Corporate IT Protocol
 
 
-Learningadvanced data analytics
+:muscle:Learningadvanced data analytics
 
 
 :smile: Looking for help with python, sql django, API
